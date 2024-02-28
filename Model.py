@@ -104,7 +104,7 @@ history = model.fit_generator(
     callbacks = callbacks
 )
 
-model.save("Model1.h5")
+model.save("Model.h5")
 
 test_filenames = os.listdir("./data/test")
 test_df = pd.DataFrame({

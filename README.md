@@ -14,7 +14,7 @@ The simple code uses Deep Learning techniques to distinguish between cats and do
 ## Configuration
 
 ```
-git clone https://github.com/tnkbang/DayHocTrucTuyen-Core.git
+git clone https://github.com/tnkbang/DogOrCat.git
 ```
 
 Get data train and test: [Link OneDrive](https://winofiwin292-my.sharepoint.com/:f:/g/personal/tnkb_winofiwin292_onmicrosoft_com/El5nHPRDJC9GttPrMOU_aK0B03TUyDAx7xJQh6DsUtlJag?e=GFpmaD)
